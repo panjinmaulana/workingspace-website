@@ -83,7 +83,8 @@
 
 .workingspace h4 {
   font-size: 52px;
-  font-weight: 200;
+  font-weight: 300;
+  color: #1c2c5d;
   text-transform: uppercase;
   margin-top: 30px;
 }
@@ -107,7 +108,8 @@
 .testimonial h5 {
   font-family: "Roboto", sans-serif;
   font-size: 24px;
-  font-weight: 200;
+  font-weight: 300;
+  color: #1c2c5d;
   text-align: center;
 }
 
